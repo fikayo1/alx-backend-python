@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ Type annotated function to add"""
 
 def add(a: float, b:float) -> float:
