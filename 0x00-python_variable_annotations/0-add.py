@@ -1,6 +1,6 @@
 """ Type annotated function to add"""
 
-def add(a: int, b:int) -> float:
+def add(a: float, b:float) -> float:
     """ Function to return sum of a and B"""
     return a+b
 
